@@ -1,0 +1,36 @@
+#tartalom {
+    width: 600px;
+    height: auto;
+    background-color: rgba(69, 42, 75, 0.7);
+    border: 2px solid #000;
+    border-radius: 15px;
+}
+
+
+.focim, #focim {
+    color: purple; 
+    font-size: 24px; 
+    background: #eee; 
+}
+
+.alcim2, #alcim2 {
+    color: rgb(128, 0, 117); 
+    font-size: 18px; 
+    background: #f9f9f9; 
+}
+
+.alcim3, #alcim3 {
+    color: rgb(255, 0, 191); 
+    font-size: 16px;
+    background: #ccc; 
+}
+
+.bekezd {
+    text-align: justify;
+    font-family: Arial, sans-serif;
+}
+
+#resztvevok {
+    background-color: #000;
+    color: #fff;
+}
